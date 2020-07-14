@@ -1,0 +1,56 @@
+table{
+
+  width:1000px;
+  margin: auto;
+  height:300px;
+
+}
+
+
+#oneid
+{
+background-color: #d88c9a;
+border-width: 6px;
+border-style: solid;
+height:400px;
+border-color: white;
+
+
+}
+
+#twoid
+{
+background-color: #f2d0a9;
+border-width: 6px;
+border-style: solid;
+height:400px;
+border-color: white;
+}
+
+#threeid
+{
+background-color: #ffa69e;
+border-width: 6px;
+border-color: white;
+border-style: solid;
+height:400px;
+
+}
+#fourid
+{
+background-color: #99c1b9;
+border-width: 6px;
+border-style: solid;
+height:400px;
+border-color: white;
+
+}
+#fiveid
+{
+background-color: #8e7dbe;
+border-width: 6px;
+border-style: solid;
+height:500px;
+border-color: white;
+
+}
